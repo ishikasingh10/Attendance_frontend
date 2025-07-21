@@ -48,7 +48,7 @@ Attendance_frontend/
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone <https://github.com/ishikasingh10/Attendance_frontend.git>
    cd Attendance_frontend
    ```
 2. **Open `index.html` in your browser** (or use Live Server for local development).
